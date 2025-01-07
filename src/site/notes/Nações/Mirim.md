@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/mirim/"}
+{"dg-publish":true,"permalink":"/Nações/Mirim/"}
 ---
 
  __Religião predominante:__ [[Religiões/Esmerismo\|Esmerismo]], [[Religiões/Biogeonismo\|Biogeonismo]];

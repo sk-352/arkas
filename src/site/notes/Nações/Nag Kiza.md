@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/nag-kiza/"}
+{"dg-publish":true,"permalink":"/Nações/Nag Kiza/"}
 ---
 
  __Religião predominante:__ [[Religiões/Drakke\|Drakke]] (Cisma de Bahamut);

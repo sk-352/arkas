@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/drakke/"}
+{"dg-publish":true,"permalink":"/Religiões/Drakke/"}
 ---
 
  __Deuses Cultuados:__ Sute (Zut), Tiokke (Tiokk), Protte (Prottes)

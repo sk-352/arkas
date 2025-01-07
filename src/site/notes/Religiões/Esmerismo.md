@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/esmerismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Esmerismo/"}
 ---
 
  __Deuses Cultuados:__ Kirena, Prottes, Ylfdag, Feuksta

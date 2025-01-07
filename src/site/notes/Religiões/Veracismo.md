@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/veracismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Veracismo/"}
 ---
 
  __Deuses Cultuados:__ Ròdiof, Tiokk, Prottes, Zut;

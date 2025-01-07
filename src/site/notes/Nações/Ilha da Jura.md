@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/ilha-da-jura/"}
+{"dg-publish":true,"permalink":"/Nações/Ilha da Jura/"}
 ---
 
  __Religião predominante:__ [[Religiões/Imolados ao Abismo\|Imolados ao Abismo]];

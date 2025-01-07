@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/lumenia/"}
+{"dg-publish":true,"permalink":"/Nações/Lumenia/"}
 ---
 
  __Religião predominante:__ [[Religiões/Veracismo\|Veracismo]];

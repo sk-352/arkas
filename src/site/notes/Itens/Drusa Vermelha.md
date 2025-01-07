@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/itens/drusa-vermelha/"}
+{"dg-publish":true,"permalink":"/Itens/Drusa Vermelha/"}
 ---
 
 __Duração:__ 1 hora

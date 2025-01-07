@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/luzidios-do-crepusculo/"}
+{"dg-publish":true,"permalink":"/Religiões/Luzidios do Crepúsculo/"}
 ---
 
  __Deuses Cultuados:__ Hësta (Feuskta), Lifta (Ylfdag), Itarë (Iattar), Kirenë (Kirenna)

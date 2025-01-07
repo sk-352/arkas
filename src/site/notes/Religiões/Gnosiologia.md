@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/gnosiologia/"}
+{"dg-publish":true,"permalink":"/Religiões/Gnosiologia/"}
 ---
 
  __Deuses Cultuados:__ Ylfdag, Volkki, Prottes, Iattar

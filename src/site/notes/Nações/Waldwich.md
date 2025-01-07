@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/waldwich/"}
+{"dg-publish":true,"permalink":"/Nações/Waldwich/"}
 ---
 
  __Religiões predominantes:__ [[Religiões/Veracismo\|Veracismo]], [[Religiões/Gnosiologia\|Gnosiologia]], [[Religiões/Magismo\|Magismo]];

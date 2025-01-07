@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/munan/"}
+{"dg-publish":true,"permalink":"/Nações/Munan/"}
 ---
 
  __Religião predominante:__ [[Religiões/Omniteísmo\|Omniteísmo]], [[Religiões/Monoteísmo\|Monoteísmo]];

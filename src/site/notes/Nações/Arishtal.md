@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/arishtal/"}
+{"dg-publish":true,"permalink":"/Nações/Arishtal/"}
 ---
 
  __Religião predominante:__ [[Religiões/Biogeonismo\|Biogeonismo]];

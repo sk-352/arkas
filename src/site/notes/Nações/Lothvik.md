@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/lothvik/"}
+{"dg-publish":true,"permalink":"/Nações/Lothvik/"}
 ---
 
  __Religião predominante:__ [[Religiões/Monoteísmo\|Monoteísmo]];

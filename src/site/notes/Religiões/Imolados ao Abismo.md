@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/imolados-ao-abismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Imolados ao Abismo/"}
 ---
 
  __Deuses Cultuados:__ Apzis (Zspen), Tars (Iattar), Tsun (Zut)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/mesetia/"}
+{"dg-publish":true,"permalink":"/Nações/Mesetia/"}
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]], [[Religiões/Omniteísmo\|Omniteísmo]];

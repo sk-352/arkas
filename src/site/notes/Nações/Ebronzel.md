@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/ebronzel/"}
+{"dg-publish":true,"permalink":"/Nações/Ebronzel/"}
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]], [[Religiões/Esmerismo\|Esmerismo]];

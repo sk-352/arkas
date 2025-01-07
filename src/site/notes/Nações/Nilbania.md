@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/nilbania/"}
+{"dg-publish":true,"permalink":"/Nações/Nilbania/"}
 ---
 
  __Religião predominante:__ [[Religiões/Gardantismo\|Gardantismo]];

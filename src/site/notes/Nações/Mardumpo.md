@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/mardumpo/"}
+{"dg-publish":true,"permalink":"/Nações/Mardumpo/"}
 ---
 
  __Religião predominante:__ [[Religiões/Luzidios do Crepúsculo\|Luzidios do Crepúsculo]];

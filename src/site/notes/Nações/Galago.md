@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/galago/"}
+{"dg-publish":true,"permalink":"/Nações/Galago/"}
 ---
 
  __Religião predominante:__ [[Religiões/Daemonismo\|Daemonismo]], [[Religiões/Omniteísmo\|Omniteísmo]], [[Religiões/Esmerismo\|Esmerismo]], [[Religiões/Monoteísmo\|Monoteísmo]], [[Religiões/Luzidios do Crepúsculo\|Luzidios do Crepúsculo]];

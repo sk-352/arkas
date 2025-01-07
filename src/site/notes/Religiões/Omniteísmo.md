@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/omniteismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Omniteísmo/"}
 ---
 
  __Deuses Cultuados:__ Todos, exceto Hermathoth;

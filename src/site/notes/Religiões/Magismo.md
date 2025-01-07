@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/magismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Magismo/"}
 ---
 
  __Deuses Cultuados:__ Sanon, Arishma, Feuksta, Kirena, Ylfdag

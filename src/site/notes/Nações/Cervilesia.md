@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/cervilesia/"}
+{"dg-publish":true,"permalink":"/Nações/Cervilesia/"}
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]], [[Religiões/Esmerismo\|Esmerismo]];

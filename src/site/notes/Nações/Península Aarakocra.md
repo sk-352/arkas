@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/peninsula-aarakocra/"}
+{"dg-publish":true,"permalink":"/Nações/Península Aarakocra/"}
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]];

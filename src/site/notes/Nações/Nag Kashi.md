@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/nag-kashi/"}
+{"dg-publish":true,"permalink":"/Nações/Nag Kashi/"}
 ---
 
  __Religião predominante:__ [[Religiões/Drakke\|Drakke]] (Cisma de Tiamat);

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/gardantismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Gardantismo/"}
 ---
 
  __Deuses Cultuados:__ Hermathoth, Arishma, Sepen (Zspen)

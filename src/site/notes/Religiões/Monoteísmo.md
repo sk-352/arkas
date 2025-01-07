@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/monoteismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Monoteísmo/"}
 ---
 
  __Deuses Importantes:__ Todos

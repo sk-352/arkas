@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/glaceux/"}
+{"dg-publish":true,"permalink":"/Nações/Glaceux/"}
 ---
 
 __Religião predominante:__ [[Religiões/Magismo\|Magismo]];

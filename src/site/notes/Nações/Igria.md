@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/igria/"}
+{"dg-publish":true,"permalink":"/Nações/Igria/"}
 ---
 
  __Religião predominante:__ [[Verascismo\|Verascismo]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nacoes/trostadd/"}
+{"dg-publish":true,"permalink":"/Nações/Trostadd/"}
 ---
 
  __Religião predominante:__ [[Religiões/Omniteísmo\|Omniteísmo]], [[Religiões/Monoteísmo\|Monoteísmo]];

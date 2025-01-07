@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/daemonismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Daemonismo/"}
 ---
 
 __Deuses Cultuados:__ Kirenne (Kirena), Aris (Arishma), Tiók (Tiokk), Hexta (Feuksta)

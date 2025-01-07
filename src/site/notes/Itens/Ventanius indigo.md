@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/itens/ventanius-indigo/"}
+{"dg-publish":true,"permalink":"/Itens/Ventanius indigo/"}
 ---
 
 Também chamado de gnomo azul, gnominho ou simplesmente cogumelo azul. É um cogumelo azul brilhante com propriedades alucinógenas, é usada em sociedades tribais fazem milênios. Alguns estudiosos acreditam que o fungo possui alguma conexão com os Planos Exteriores, quando seguramente extraído o seu princípio ativo pode causar alucinações que são interpretadas como mensagens de outro Planos.

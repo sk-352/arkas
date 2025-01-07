@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/biogeonismo/"}
+{"dg-publish":true,"permalink":"/Religiões/Biogeonismo/"}
 ---
 
  __Deuses Cultuados:__ Arishma, Tiokk, Hedona (Kirena)
