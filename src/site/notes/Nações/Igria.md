@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Nações/Igria/"}
 ---
 
- __Religião predominante:__ [[Verascismo\|Verascismo]];
+ __Religião predominante:__ [[Religiões/Veracismo\|Veracismo]];
  __Raça predominante:__ Humanos;
  __Idiomas oficiais:__ Comum; 
  __Forma de governo:__ Autocracia, Monarquia;

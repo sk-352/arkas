@@ -3,7 +3,7 @@
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]], [[Religiões/Esmerismo\|Esmerismo]];
- __Raça predominante:__ Humanos, Elfos, Meio-Elfos, Halflings;
+ __Raça predominante:__ Humanos, Elfos, Meio-Elfos, Diminutos (Halflings);
  __Idiomas oficiais:__ Comum, Élfico;
  __Forma de governo:__ Monarquia Constitucional;
  

@@ -3,7 +3,7 @@
 ---
 
  __Religiões predominantes:__ [[Religiões/Veracismo\|Veracismo]], [[Religiões/Gnosiologia\|Gnosiologia]], [[Religiões/Magismo\|Magismo]];
- __Raças predominantes:__ Humanos, gnomos;
+ __Raças predominantes:__ Humanos, Gnomos;
  __Idiomas oficiais:__ Comum, Gnômico (sotaque da floresta);
  __Forma de governo:__ República;
 

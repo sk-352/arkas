@@ -3,9 +3,11 @@
 ---
 
  __Religião predominante:__ [[Religiões/Magismo\|Magismo]], [[Religiões/Omniteísmo\|Omniteísmo]];
- __Raça predominante:__ Humanos, Tieflings;
+ __Raça predominante:__ Humanos, Ínferes (Tieflings);
  __Idiomas oficiais:__ Comum, Infernal; 
  __Forma de governo:__ Teocracia / República (poderes em conflito);  
+
+![Pasted image 20250110221442.png](/img/user/Pasted%20image%2020250110221442.png)
 
 Mesetia é uma nação. [[Nações/Mesetia\|Mesetia]] é a casa do maior deserto de Arkas, [[Khamon\|Khamon]]. Atualmente estão sob uma guerra civil, a aparentemente interminável [[Guerra Civil Mesetiana\|Guerra Civil Mesetiana]] entre os humanos do oeste e os tieflings do leste. 
 Sua religião oficial é o [[Religiões/Magismo\|Magismo]]. 
