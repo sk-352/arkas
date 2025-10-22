@@ -9,4 +9,4 @@
 
 ![Pasted image 20250110214547.png](/img/user/Pasted%20image%2020250110214547.png)
 
-Ebronzel é a nação onde vivem os cerlebres (também chamados de harengon), enquanto eles não rejeitam a tecnologia, como fazem os arishtalis, suas cidades são um híbrido entre estruturas feitas em árvores e debaixo da terra e usam todo o tipo de estratégias para sobreviver e prosperar no ambiente hostil que é Ebronzel. 
+Ebronzel é a nação onde vivem os cerlebres (também chamados de harengon), enquanto eles não rejeitam a tecnologia, como fazem os arishtalis, suas cidades são um híbrido entre estruturas feitas em árvores e debaixo da terra. Usam todo o tipo de estratégias para sobreviver e prosperar no ambiente hostil que é Ebronzel. 
